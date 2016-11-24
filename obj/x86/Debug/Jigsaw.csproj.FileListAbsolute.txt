@@ -1,0 +1,67 @@
+C:\Users\nejdetsen\Downloads\Jigsaw\bin\Debug\Jigsaw.exe.config
+C:\Users\nejdetsen\Downloads\Jigsaw\bin\Debug\Jigsaw.exe
+C:\Users\nejdetsen\Downloads\Jigsaw\bin\Debug\Jigsaw.pdb
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\MainWindow.baml
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\App.g.cs
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\Jigsaw.g.resources
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\Jigsaw.exe
+C:\Users\nejdetsen\Downloads\Jigsaw\obj\x86\Debug\Jigsaw.pdb
+C:\Users\nejdetsen\Desktop\Jigsaw\bin\Debug\Jigsaw.exe.config
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\Jigsaw.exe
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\Jigsaw.pdb
+C:\Users\nejdetsen\Desktop\Jigsaw\bin\Debug\Jigsaw.exe
+C:\Users\nejdetsen\Desktop\Jigsaw\bin\Debug\Jigsaw.pdb
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\MainWindow.baml
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\MainWindow.g.cs
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\App.g.cs
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\Jigsaw.g.resources
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\nejdetsen\Desktop\Jigsaw\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\nejdet\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe.config
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.exe
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.pdb
+D:\nejdet\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe
+D:\nejdet\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.pdb
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.baml
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.g.cs
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\App.g.cs
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.g.resources
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+D:\nejdet\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.csproj.GenerateResource.Cache
+D:\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe.config
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.exe
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.pdb
+D:\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe
+D:\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.pdb
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.baml
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.g.cs
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\App.g.cs
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.g.resources
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\yapboz güncel--\Jigsaw\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe.config
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.exe
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.exe
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\bin\Debug\Jigsaw.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.baml
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\MainWindow.g.cs
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\App.g.cs
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.g.resources
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Windows\WPF Form Application\Thesis\yapboz güncel--\Jigsaw\obj\x86\Debug\Jigsaw.csproj.GenerateResource.Cache
